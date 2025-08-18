@@ -1,3 +1,4 @@
+![Amazon Prime Dashboard Banner](amazon_prime_dashboard.png)
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
 ![Excel](https://img.shields.io/badge/Data-Excel-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
