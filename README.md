@@ -21,6 +21,7 @@ The goal of this dashboard is to analyze Amazon Prime’s content library and un
 - `amazon_prime_dashboard.pbix` → Power BI dashboard file  
 - `amazon_prime_dashboard.png` → Dashboard screenshot  
 - `dashboard_demo.gif` → Dashboard demo (animated preview)  
+
 ---
 
 ## 🖼 Dashboard Preview
@@ -28,6 +29,7 @@ The goal of this dashboard is to analyze Amazon Prime’s content library and un
 
 ### Animated Demo  
 ![Dashboard Demo](dashboard_demo.gif) 
+
 ---
 
 ## 📊 Key Insights from the Dashboard
@@ -53,4 +55,20 @@ The goal of this dashboard is to analyze Amazon Prime’s content library and un
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.  
+
+---
+
+## 🤝 Contributing  
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an `issue` or create a `pull request`.  
+
+---
+
+## 👩‍💻 Author  
+**Yogalakshmi AR**  
+🔗 [GitHub](https://github.com/YOGA-AR)  
+
+---
+
+⭐ If you found this project useful, don’t forget to give it a star!  
