@@ -1,3 +1,12 @@
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Excel](https://img.shields.io/badge/Data-Excel-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Last Commit](https://img.shields.io/github/last-commit/YOGA-AR/amazon-prime-powerbi-dashboard)
+![Repo Size](https://img.shields.io/github/repo-size/YOGA-AR/amazon-prime-powerbi-dashboard)
+![Stars](https://img.shields.io/github/stars/YOGA-AR/amazon-prime-powerbi-dashboard?style=social)
+
+
 # Amazon Prime Power BI Dashboard 📊
 
 This project showcases an **interactive Power BI dashboard** built using the *Amazon Prime Titles* dataset.  
