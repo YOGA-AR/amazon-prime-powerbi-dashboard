@@ -11,12 +11,14 @@ The goal of this dashboard is to analyze Amazon Prime’s content library and un
 - `amazon prime titles.xlsx` → Dataset containing Amazon Prime Movies & TV Shows  
 - `amazon_prime_dashboard.pbix` → Power BI dashboard file  
 - `amazon_prime_dashboard.png` → Dashboard screenshot  
-
+- `dashboard_demo.gif` → Dashboard demo (animated preview)  
 ---
 
 ## 🖼 Dashboard Preview
 ![Amazon Prime Dashboard](amazon_prime_dashboard.png)
 
+### Animated Demo  
+![Dashboard Demo](dashboard_demo.gif) 
 ---
 
 ## 📊 Key Insights from the Dashboard
